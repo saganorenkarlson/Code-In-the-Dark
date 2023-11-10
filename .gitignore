@@ -1,0 +1,6 @@
+Scripts/
+Lib/
+Include/
+/pyvenv.cfg
+.env
+django/django_rest_api_tasks/.env

@@ -1,0 +1,20 @@
+Component naming convention: 
+Use PascalCase for component names, for example MyComponent.vue instead of mycomponent.vue or myComponent.vue. 
+
+Method and event naming convention: 
+Use camelCase for method and event names, for example handleClick instead of handle_click or handle-click. 
+
+Data property naming convention: 
+Use camelCase for data property names, for example message instead of Message or message_text. 
+
+Computed property naming convention: 
+Use camelCase for computed property names, for example fullName instead of full_name or full-name. 
+
+folders:
+lowercase
+
+git commits and brances:
+new branch for each new feature and name of the developer ex: mathilda-firstpage 
+and the commit:  mathilda- updatet firstpage so it has menu
+
+
